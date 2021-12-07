@@ -6,3 +6,5 @@ https://drive.google.com/drive/folders/1ujWMXe8kESQxBqFZbIkS5QJ0QcQEjSHr?usp=sha
 
 
 File `51 Fakeshare.xls` lists the identified 51 malicious apps that contain FakeShare attacks.
+
+**We will provide a better usage description of DeFash later.**
