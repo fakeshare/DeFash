@@ -1,0 +1,2 @@
+<android.content.res.Resources: java.lang.String getString(int)> -> _SOURCE_
+<com.tencent.mm.opensdk.openapi.WXApiImplV10: boolean sendReq(com.tencent.mm.opensdk.modelbase.BaseReq)> -> _SINK_

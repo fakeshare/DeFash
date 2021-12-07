@@ -1,0 +1,16 @@
+D:\Lab\MoneyMakingAPP\apks\top20\com.baidu.searchbox.lite.apk;com.baidu.searchbox.lite;wx6d2ad6ce3e1cd86e,wx3fcdd8310a136ff8
+D:\Lab\MoneyMakingAPP\apks\top20\com.duowan.kiwi.apk;com.duowan.kiwi;wx1151bdc91cda1ed2,wxcf0f7ffee932918d
+D:\Lab\MoneyMakingAPP\apks\top20\com.jd.pingou.apk;com.jd.pingou;wx2c49e82e87e57ff0
+D:\Lab\MoneyMakingAPP\apks\top20\com.baidu.searchbox.apk;com.baidu.searchbox;wx27a43222a6bf2931,wx3fcdd8310a136ff8
+D:\Lab\MoneyMakingAPP\apks\top20\com.kuaishou.nebula.apk;com.kuaishou.nebula;wx42d6d3bdc1cb2bdc,wx0be3c4e6ae2bf601,wx9227d48257374438,wxaadbab9d13edff20
+D:\Lab\MoneyMakingAPP\apks\top20\com.quark.browser.apk;com.quark.browser;wx6ad620e1ep8nl00y,wx85686879e8891882
+D:\Lab\MoneyMakingAPP\apks\top20\com.smile.gifmaker.apk;com.smile.gifmaker;wxaadbab9d13edff20,wx0be3c4e6ae2bf601,wx9227d48257374438
+D:\Lab\MoneyMakingAPP\apks\top20\com.ss.android.article.news.apk;com.ss.android.article.news;wx1f261e100553bf30,wx50d801314d9eb858
+D:\Lab\MoneyMakingAPP\apks\top20\com.ss.android.auto.apk;com.ss.android.auto;wx6c4e742874e2d7e5
+D:\Lab\MoneyMakingAPP\apks\top20\com.tencent.weishi.apk;com.tencent.weishi;wx5dfbe0a95623607b,wx75ee9f19b93e5c46,wxe5f52902cf4de896,wxc297db62adbdb10c,wxb825ab501296672e,wx40f8626ddf43d362,wxc2bbeac4e36a812c,wx6d5a6c4a1cdd4e8a,wx254aef50a5ae60f2,wx3a902e983371c676,wx1e5b107d2364b18b,wx308bd2aeb83d3345,wx9e9b87595c41dbb7,wx91d27dbf599dff74,wx60d176f873ca2d67,wxb032bc789053daf4,wx22bcdcf9861f6944,wxd461f2076e3ebc8d,wxc30ae3bc7fb4cab1,wx7643d5f831302ab0,wxebaea9edfc283e7c,wxdbb4c5f1b8ee7da1,wx71d589ea01ce3321,wx93c3c5b012d07abf,wxd0e404d795ea6f80,wxdde587a4aebfe4f3,wxd45c635d754dbf59,wx7ca43cf8fb832566,wx7c8d593b2c3a7703,wx89728e4ca6fb48cc,wx504e2b5e77713844,wx32540bd863b27570,wxbfc40bfcb8a18fd8,wx6e918a04a2eb8ebd,wxa75efa648b60994b,wxb8b0988833c048eb,wxa717aca07db3bb5a,wxac48d234d44e23e3,wxffc1051032845ffa,wxeb39b10e39bf6b54,wxada7aab80ba27074,wxcd10170e55a1f55d,wxb11f14b08a38ba44,wx0db0304107fa8d04,wx79a83b1a1e8a7978,wx2c348cf579062e56,wxb10c47503e8c8e01,wxa2c453d902cdd452,wx80f41b391c5ef8f7,wx55965328effd38c1,wxd7d16981491bbabe,wxd7911e4c177690e4,wxe309be0f325d17d6,wxca1fe42a16552094,wxfa32dc0ed212dadc,wx23d8d7ea22039466,wx87f0d936dd720581,wxfe02ecfe70800f46,wx577c74fb940daaea,wx850d691fd02de8a1
+D:\Lab\MoneyMakingAPP\apks\top20\com.tencent.qqlive.apk;com.tencent.qqlive;wxca942bbff22e0e51,wx87f0d936dd720581,wxfe02ecfe70800f46,wx577c74fb940daaea,wx850d691fd02de8a1,wx434fd146a665ff62,wxe5f52902cf4de896
+D:\Lab\MoneyMakingAPP\apks\top20\com.UCMobile.apk;com.UCMobile;wx020a535dccd46c11
+D:\Lab\MoneyMakingAPP\apks\top20\com.xunlei.downloadprovider.apk;com.xunlei.downloadprovider;wxxxxxxxxxxxxxxxxx
+D:\Lab\MoneyMakingAPP\apks\top20\com.xs.fm.apk;com.xs.fm;wx4e3e8de4d18c5313
+D:\Lab\MoneyMakingAPP\apks\top20\com.xunmeng.pinduoduo.apk;com.xunmeng.pinduoduo;wx77d53b84434b9d9a,wx773a286ea37f0216,wxff2e8dc2762c5b92
+D:\Lab\MoneyMakingAPP\apks\top20\com.yy.huyaassist4game.apk;com.yy.huyaassist4game;wxa6693cf757bfef6c
